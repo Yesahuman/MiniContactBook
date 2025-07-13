@@ -37,6 +37,6 @@ After downloading:
 2. Double-click to launch.
 3. It will create a `contacts.txt` file in the same folder if one doesn’t exist.
 
-> No installation or .NET runtime required — it's self-contained!
+> No installation or .NET runtime required - it's self-contained!
 
 ---
